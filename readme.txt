@@ -1,1 +1,1 @@
-This file is for my python program only.
+This file is for my python learning program only.
